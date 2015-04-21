@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <!-- From: file:/home/vkaiser-pendergrast/Dropbox/GitHub/EstimoteTaskerPlugin/localeapi/build/intermediates/bundles/debug/res/values-hdpi-v4/values.xml -->
+    <eat-comment/>
+    <integer name="twofortyfouram_locale_maximum_blurb_length" ns1:ignore="UnusedResources">60</integer>
+</resources>
